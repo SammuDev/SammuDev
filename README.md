@@ -4,44 +4,32 @@
 
 Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
-<h1 align="center">👋 Olá, eu sou o <strong>Samuel Santos</strong></h1>
+<div align="center">
+  <h1>Olá! Eu sou o Samuel Santos 👋</h1>
+  
+  <p>Sou um <strong>Engenheiro de Dados</strong> apaixonado por transformar dados brutos em insights valiosos e soluções robustas.</p>
+  
+  <p>Com <strong>2 anos de experiência</strong>, dedico-me à construção e otimização de pipelines de dados eficientes e escaláveis.</p>
+  
+  <hr>
 
-<p align="center">
-  <em>Engenheiro de Dados com 2 anos de experiência em projetos de integração, processamento e análise de dados.</em>
-</p>
+  <h2>🛠 Minhas Stacks Atuais</h2>
+  
+  <p>Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:</p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Badge"/>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark Badge"/>
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow Badge"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  </div>
+  
+  <hr>
 
----
-
-<h3 align="center">🚀 Tecnologias e Ferramentas</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-</p>
-
----
-
-<h3 align="center">📊 Sobre mim</h3>
-
-<p align="center">
-  💡 Apaixonado por dados, automação e otimização de pipelines.<br>
-  🔍 Experiência com modelagem de dados, ETL, e arquitetura de dados moderna.<br>
-  🌱 Atualmente aprimorando minhas habilidades em <strong>Data Engineering</strong> com foco em performance e escalabilidade.<br>
-</p>
-
----
-
-<h3 align="center">📫 Vamos nos conectar!</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samuel-santos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+  <h2>📊 Estatísticas do GitHub</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub do Samuel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+  
+  </div>
