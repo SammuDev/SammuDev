@@ -21,11 +21,14 @@ Estou sempre buscando as soluções mais eficientes para os desafios de Big Data
 
 **Aplicações a dados**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
+[![Azure Functions](https://custom-icon-badges.demolab.com/badge/Azure%20Functions-0078D7?logo=azure-functions&logoColor=fff)](#)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#)
 ![Dbt](https://img.shields.io/badge/-Dbt-333333?style=flat&logo=Dbt)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
@@ -40,9 +43,8 @@ Estou sempre buscando as soluções mais eficientes para os desafios de Big Data
 
 **Ferramentas de desenvolvimento**
 
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 <br/>
 
