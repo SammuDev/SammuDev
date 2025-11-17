@@ -36,6 +36,7 @@ Estou sempre buscando as soluções mais eficientes para os desafios de Big Data
 
 **DevOps**
 
+[![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
