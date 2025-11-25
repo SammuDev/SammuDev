@@ -42,10 +42,6 @@ Estou sempre buscando as soluções mais eficientes para os desafios de Big Data
 
 <br/>
 
-<a href="https://github.com/SammuDev" title="Perfil SammuDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SammuDev&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/samuel-santos-5b1626216)
