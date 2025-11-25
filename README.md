@@ -42,7 +42,7 @@ Estou sempre buscando as soluções mais eficientes para os desafios de Big Data
 
 <br/>
 
-<a href="https://github.com/SammuDev" title="Perfil do Iuri">
+<a href="https://github.com/SammuDev" title="Perfil SammuDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SammuDev&theme=dracula&show_icons=true" />
 </a>
 
