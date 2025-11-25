@@ -41,6 +41,9 @@ Estou sempre buscando as soluções mais eficientes para os desafios de Big Data
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## Onde me encontrar
 
